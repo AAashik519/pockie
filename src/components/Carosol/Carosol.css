@@ -1,0 +1,46 @@
+.carosolMenu{
+    padding: 50px;
+}
+
+
+.supperSale{
+    width: 100%;
+    height: 500px;
+}
+.supperSale img{
+    width: 100%;
+    height: 500px;
+}
+.Shop_text h4{
+    font-size: 20px;
+}
+.see_All{
+    font-size: 15px;
+    color:#68D237 ;
+}
+.see_All span{
+    font-size: 10px;
+    color: #68D237;
+}
+.Catagory_icons{
+    color: gray;
+    background: #fff ;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+   
+}
+.category_icon {
+}
+ 
+.category_icon h4{
+    font-size: 15px;
+    
+}
+.category_icon svg{
+    margin-top: 15px;
+    font-size: 40px;
+    display: block;
+}

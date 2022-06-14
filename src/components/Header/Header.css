@@ -1,0 +1,107 @@
+.information{
+background-color: #000;
+ 
+height: 30px;
+ 
+padding: 2px 150px;
+width: 100%;
+ 
+ 
+}
+ .texts ul li a{
+padding: 2px 5px ;
+ color: #fff;
+ 
+ font-size: 13px;
+}
+.icons ul li a{
+    padding: 2px 5px ;
+     color: #fff;
+     display: flex;
+}
+.icons ul li a svg{
+    font-size: 20px;
+}
+ .searchbar{
+    width: 100%;
+ }
+ .col{
+    padding: none;
+ }
+ .searchBar{
+    background: #000;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+  
+ }
+  
+ 
+ .cartItems{
+    background: #000;
+    color:#fff;
+    display: flex;
+  
+ }
+ .nestedDropDown{
+    background: #fff;
+    border-radius: 5px;
+    
+   }
+   .nestedDropDown a{
+      color: gray;
+   }
+   .nestedDropDown ul li a{
+      color:  gray;
+  }
+  .button{
+   background: #68D237;
+   color: #fff;
+   padding: 8px 20px;
+
+}
+.shoppingCart{
+  padding: 0 15px;
+  display: flex;
+   
+   
+}
+.cartText   {
+  top: -2;
+  right: -5;
+   
+}
+.categoryMenu{
+   display: flex;
+   height: 50px;
+   align-items: center;
+   justify-content: center;
+   background:#fff;
+   padding:0px;
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+   line-height: 2;
+}
+
+
+.categoryMenu ul li a{
+   padding: 0 10px;
+   color:#000000;
+   font-size: 15px;
+   font-weight:400;
+ 
+}
+
+.category{
+   margin-top: 10px
+}
+.homeMenu{
+   margin-top: 10px;
+}
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 10px;
+}
