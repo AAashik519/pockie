@@ -1,6 +1,6 @@
 import React from 'react'
 import HotDealComponent from './HotDealComponent'
-
+import './HotDeal.css'
 const HotDeal = () => {
     const hotDeals = [
         

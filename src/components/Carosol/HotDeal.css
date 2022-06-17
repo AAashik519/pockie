@@ -1,0 +1,42 @@
+
+.HotDealComponent{
+    
+}
+.HotDealCard{
+    height: 400px;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ 
+}
+.HotDealImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 75px;
+    top: 35px;
+   
+}
+.HotDealCard img{
+    width: 400px!important;
+    height: 350px!important;
+  
+   
+}
+.HotDealText{
+    position: relative;
+    transform: translateY(160px);
+    padding: 0 20px;
+}
+.HotDealText p{
+font-size: 15px;
+font-weight: bold;
+color:#303952;
+
+}
+.HotDealText h4{
+    font-size: 15px;
+    font-weight: bold;
+   color:  #303952;
+    padding:5px;
+}
